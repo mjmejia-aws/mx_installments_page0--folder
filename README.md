@@ -17,5 +17,5 @@ pip intall -r requirements.txt
 streamlit run mx_installments_page0_app_v5_fixed1.py
 3. Open in browser:
 https://localhost:8501
-### Author:
+## Author:
 Jose Luis Mejia
