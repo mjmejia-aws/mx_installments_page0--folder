@@ -1,4 +1,4 @@
-#MX Installments - Wekly GMS Dashboard 
+# MX Installments - Wekly GMS Dashboard 
 
 Streamlit dashboard to analize Weekly Installments GMS with Year-over-Year (YoY) comparation
 
